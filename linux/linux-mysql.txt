@@ -1,0 +1,2 @@
+1£ºhttps://dev.mysql.com/downloads/mysql/
+2£ºmysql-5.7.26-linux-glibc2.12-i686.tar.gz

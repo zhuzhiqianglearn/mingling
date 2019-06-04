@@ -1,0 +1,2 @@
+ÃüÁî1£ºyum install ntpdate -y
+ÃüÁî2£ºntpdate 0.asia.pool.ntp.org
